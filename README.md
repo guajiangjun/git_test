@@ -1,3 +1,3 @@
 # This is for learn git branch
 hello this world
-This is for issue2
+This is for merge
